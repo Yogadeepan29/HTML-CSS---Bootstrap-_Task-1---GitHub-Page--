@@ -1,11 +1,11 @@
-In this Repository, I have completed Day 12 HTML,CSS & Bootstrap task
+In this Repository, I have completed Day 12 HTML, CSS & Bootstrap task
 
 ==> Task-1 (  Github-profile-page-design )
 
-    In this task i have built a webpage by using HTML,CSS and Bootstrap.
+    I have built a webpage using HTML, CSS and Bootstrap for this task.
 
-      * From a image i recreated it as a webpage
-      * technologies used HTML,CSS,Bootstrap
+      * From an image I recreated it as a webpage
+      * technologies used HTML, CSS, Bootstrap
       * And also made the page Responsive
       * Things learned/used in Bootstrap :
           * Nav-bar
@@ -15,6 +15,7 @@ In this Repository, I have completed Day 12 HTML,CSS & Bootstrap task
           * Breakpoints
 
   ==> This page is also Deployed on Netlify
+  URL : https://rydgithubpagedesign.netlify.app
       
 
 
