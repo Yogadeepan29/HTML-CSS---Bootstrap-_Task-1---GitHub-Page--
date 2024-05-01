@@ -41,7 +41,7 @@ body {
   padding-left: 20px;
   color: rgb(159, 159, 159);
   background-color: rgb(53, 53, 53);
-  border-radius: 15px !important  ;
+  border-radius: 15px !important ;
 }
 ::placeholder {
   color: rgb(159, 159, 159) !important;
